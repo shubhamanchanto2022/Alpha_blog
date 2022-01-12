@@ -3,7 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-my new project
+my new project of alpha blog
 
 Things you may want to cover:
 
